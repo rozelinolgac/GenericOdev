@@ -1,0 +1,12 @@
+C:\Users\rzlno\source\repos\GenericOdev\GenericOdev\bin\Debug\netcoreapp3.1\GenericOdev.exe
+C:\Users\rzlno\source\repos\GenericOdev\GenericOdev\bin\Debug\netcoreapp3.1\GenericOdev.deps.json
+C:\Users\rzlno\source\repos\GenericOdev\GenericOdev\bin\Debug\netcoreapp3.1\GenericOdev.runtimeconfig.json
+C:\Users\rzlno\source\repos\GenericOdev\GenericOdev\bin\Debug\netcoreapp3.1\GenericOdev.runtimeconfig.dev.json
+C:\Users\rzlno\source\repos\GenericOdev\GenericOdev\bin\Debug\netcoreapp3.1\GenericOdev.dll
+C:\Users\rzlno\source\repos\GenericOdev\GenericOdev\bin\Debug\netcoreapp3.1\GenericOdev.pdb
+C:\Users\rzlno\source\repos\GenericOdev\GenericOdev\obj\Debug\netcoreapp3.1\GenericOdev.AssemblyInfoInputs.cache
+C:\Users\rzlno\source\repos\GenericOdev\GenericOdev\obj\Debug\netcoreapp3.1\GenericOdev.AssemblyInfo.cs
+C:\Users\rzlno\source\repos\GenericOdev\GenericOdev\obj\Debug\netcoreapp3.1\GenericOdev.csproj.CoreCompileInputs.cache
+C:\Users\rzlno\source\repos\GenericOdev\GenericOdev\obj\Debug\netcoreapp3.1\GenericOdev.dll
+C:\Users\rzlno\source\repos\GenericOdev\GenericOdev\obj\Debug\netcoreapp3.1\GenericOdev.pdb
+C:\Users\rzlno\source\repos\GenericOdev\GenericOdev\obj\Debug\netcoreapp3.1\GenericOdev.genruntimeconfig.cache
